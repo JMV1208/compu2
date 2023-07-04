@@ -1,0 +1,64 @@
+h1{
+    font-size: 55px;
+    font-family:'Caprasimo', cursive;
+    color: rgb(139, 132, 34);
+    text-align: center;
+    
+    
+}
+
+body{
+    background-color: rgb(216, 210, 210) ;
+}
+
+div{
+  
+  background-color: rgb(76, 208, 241) ;
+  
+  align-content: center;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.menu{
+  display: flex;
+  list-style: none;
+  padding: 0;
+  background: #2266cc;
+  width: 90%;
+  max-width: 1000xp;
+  margin: auto;  
+  justify-content: space-between;
+  
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li a:hover{
+  background-color: rgb(43, 159, 226) ;
+}
+
+body{
+  background-color: rgb(216, 210, 210) ;
+}
+
+.titulos{
+  color: rgb(51, 7, 133);
+}
+
+.imagenes{
+  border-width: 10xp;
+  border-color: rgb(102, 97, 97);
+  border-style: solid;
+  bord
+}
